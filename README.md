@@ -56,7 +56,6 @@ If you want to use it in your computer use the folder : local_comp_app
 Fill all the neccessary credentials with yours.
 Run the file main.py 
 ```
-## If you like to check our meme bot [here is the link to it](https://t.me/mighty_memer_bot)
 
 # Thank you :smiley:
 
